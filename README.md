@@ -1,9 +1,7 @@
-# Ahmed Alsakkaf
+<img width="1834" alt="Make your README (1)" src="https://github.com/AhmedAlsakkaf/AhmedAlsakkaf/assets/119998632/2ceb4c14-2669-4c5e-8255-a231d78bcee2">
 
 ## About Me
 Hello! I'm Ahmed Alsakkaf, a software engineering student from Yemen currently studying in Pakistan. I'm in my third year and set to graduate in 2026. I have a passion for building websites and mobile applications, and I'm continuously learning and expanding my skills in software development.
-<img width="1834" alt="Make your README (1)" src="https://github.com/AhmedAlsakkaf/AhmedAlsakkaf/assets/119998632/2ceb4c14-2669-4c5e-8255-a231d78bcee2">
-
 
 
 ## Skills
